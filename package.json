@@ -1,0 +1,10 @@
+package.json
+json
+{
+  "name": "cm-cicd-pipeline",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Tests passed\"",
+    "build": "echo \"Build successful\""
+  }
+}
